@@ -37,3 +37,11 @@ Each problem notebook includes the following sections:
 **Approach:** Explanation of the chosen approach to solve the problem.
 **Code:** Python implementation of the solution.
 **Test Cases:** A few test cases used to verify the correctness of the solution.
+
+
+## Contribution
+Feel free to fork this repository, add more solutions, and submit a pull request. Suggestions and improvements are welcome!
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
