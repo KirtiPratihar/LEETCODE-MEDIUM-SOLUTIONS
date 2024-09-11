@@ -18,7 +18,7 @@ This repository contains solutions to **LeetCode Medium** level problems, implem
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/leetcode-easy-solutions.git
+   git clone https://github.com/KirtiPratihar/LEETCODE-MEDIUM-SOLUTIONS.git
 2. Navigate to the project folder:
    ```bash
-   cd leetcode-easy-solutions
+   cd leetcode-medium-solutions
