@@ -28,3 +28,12 @@ This repository contains solutions to **LeetCode Medium** level problems, implem
 4. Open the Jupyter notebooks:
    ```bash
    jupyter notebook
+5. Choose a notebook from the list and run it to see the solution and test cases.
+
+Sample Problem
+Each problem notebook includes the following sections:
+
+**Problem Description: A brief description of the LeetCode problem (with the link to the problem).**
+**Approach:** Explanation of the chosen approach to solve the problem.
+**Code:** Python implementation of the solution.
+**Test Cases:** A few test cases used to verify the correctness of the solution.
