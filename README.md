@@ -22,3 +22,9 @@ This repository contains solutions to **LeetCode Medium** level problems, implem
 2. Navigate to the project folder:
    ```bash
    cd leetcode-medium-solutions
+3. Install necessary dependencies (if any):
+   ```bash
+   pip install -r requirements.txt
+4. Open the Jupyter notebooks:
+   ```bash
+   jupyter notebook
