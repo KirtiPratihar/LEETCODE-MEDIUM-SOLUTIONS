@@ -14,3 +14,11 @@ This repository contains solutions to **LeetCode Medium** level problems, implem
 - **Problem Solutions**: Each LeetCode problem is solved in its dedicated Jupyter notebook. The notebooks are organized by problem number and name.
 - **Code**: Python 3 is used for all implementations.
 - **Tests**: Basic test cases are provided at the end of each notebook to demonstrate the correctness of the solution.
+
+## How to Use
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/leetcode-easy-solutions.git
+2. Navigate to the project folder:
+   ```bash
+   cd leetcode-easy-solutions
