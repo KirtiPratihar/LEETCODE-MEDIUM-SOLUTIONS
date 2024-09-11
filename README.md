@@ -45,3 +45,10 @@ Feel free to fork this repository, add more solutions, and submit a pull request
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+
+## Author
+Name- Kirti Pratihar
+GitHub-https://github.com/KirtiPratihar
+LinkedIn -www.linkedin.com/in/kirti-pratihar-426072279
+
+
